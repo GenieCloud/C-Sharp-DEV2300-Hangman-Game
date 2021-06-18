@@ -1,0 +1,12 @@
+/Users/jmjon/Desktop/DEV2300 - Application Program Development/JonesJames_CE08_Refactored/JonesJames_CE08_Refactored/bin/Debug/netcoreapp3.1/JonesJames_CE08_Refactored.deps.json
+/Users/jmjon/Desktop/DEV2300 - Application Program Development/JonesJames_CE08_Refactored/JonesJames_CE08_Refactored/bin/Debug/netcoreapp3.1/JonesJames_CE08_Refactored.runtimeconfig.json
+/Users/jmjon/Desktop/DEV2300 - Application Program Development/JonesJames_CE08_Refactored/JonesJames_CE08_Refactored/bin/Debug/netcoreapp3.1/JonesJames_CE08_Refactored.runtimeconfig.dev.json
+/Users/jmjon/Desktop/DEV2300 - Application Program Development/JonesJames_CE08_Refactored/JonesJames_CE08_Refactored/bin/Debug/netcoreapp3.1/JonesJames_CE08_Refactored.dll
+/Users/jmjon/Desktop/DEV2300 - Application Program Development/JonesJames_CE08_Refactored/JonesJames_CE08_Refactored/bin/Debug/netcoreapp3.1/JonesJames_CE08_Refactored.pdb
+/Users/jmjon/Desktop/DEV2300 - Application Program Development/JonesJames_CE08_Refactored/JonesJames_CE08_Refactored/obj/Debug/netcoreapp3.1/JonesJames_CE08_Refactored.csproj.AssemblyReference.cache
+/Users/jmjon/Desktop/DEV2300 - Application Program Development/JonesJames_CE08_Refactored/JonesJames_CE08_Refactored/obj/Debug/netcoreapp3.1/JonesJames_CE08_Refactored.AssemblyInfoInputs.cache
+/Users/jmjon/Desktop/DEV2300 - Application Program Development/JonesJames_CE08_Refactored/JonesJames_CE08_Refactored/obj/Debug/netcoreapp3.1/JonesJames_CE08_Refactored.AssemblyInfo.cs
+/Users/jmjon/Desktop/DEV2300 - Application Program Development/JonesJames_CE08_Refactored/JonesJames_CE08_Refactored/obj/Debug/netcoreapp3.1/JonesJames_CE08_Refactored.csproj.CoreCompileInputs.cache
+/Users/jmjon/Desktop/DEV2300 - Application Program Development/JonesJames_CE08_Refactored/JonesJames_CE08_Refactored/obj/Debug/netcoreapp3.1/JonesJames_CE08_Refactored.dll
+/Users/jmjon/Desktop/DEV2300 - Application Program Development/JonesJames_CE08_Refactored/JonesJames_CE08_Refactored/obj/Debug/netcoreapp3.1/JonesJames_CE08_Refactored.pdb
+/Users/jmjon/Desktop/DEV2300 - Application Program Development/JonesJames_CE08_Refactored/JonesJames_CE08_Refactored/obj/Debug/netcoreapp3.1/JonesJames_CE08_Refactored.genruntimeconfig.cache

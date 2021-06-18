@@ -1,0 +1,10 @@
+﻿STUDENT:A person formally engaged in learning
+EDUCATION:The process of imparting or acquiring knowledge
+IMAGINATION:The ability of the mind to be creative or resourceful
+ADVENTURE:An unusual and exciting, typically hazardous, experience or activity
+GROWTH:The process of developing or maturing physically, mentally, or spiritually
+MAGIC:The power of apparently influencing the course of events by using mysterious or supernatural forces
+COMPUTER:An electronic device for storing and processing data, typically in binary form, according to instructions given to it in a variable program
+REDEEM:Compensate for the faults or bad aspects of something
+METHOD:A particular form of procedure for accomplishing or approaching something, especially a systematic or established one
+FILE:A folder or box for holding loose papers that are typically arranged in a particular order for easy reference

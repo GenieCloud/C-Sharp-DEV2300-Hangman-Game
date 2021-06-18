@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{AF203A8D-7A16-4E40-9D70-8B3DDF8E29D0}|Default">
+  <MonoDevelop.Ide.ItemProperties.JonesJames__CE08__Refactored PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="JonesJames_CE08_Refactored/Hangman.cs">
+    <Files>
+      <File FileName="JonesJames_CE08_Refactored/Program.cs" Line="1" Column="1" />
+      <File FileName="JonesJames_CE08_Refactored/Hangman.cs" Line="115" Column="45" />
+      <File FileName="JonesJames_CE08_Refactored/Gallows.cs" Line="67" Column="78" NotebookId="1" />
+      <File FileName="JonesJames_CE08_Refactored/Dictionary.txt" Line="1" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JonesJames_CE08_Refactored" expanded="True">
+            <Node name="JonesJames_CE08_Refactored" expanded="True">
+              <Node name="Hangman.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jmjon/Desktop/DEV2300 - Application Program Development/JonesJames_CE08_Refactored/JonesJames_CE08_Refactored/Dictionary.txt" relfile="JonesJames_CE08_Refactored/Dictionary.txt" line="10" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
